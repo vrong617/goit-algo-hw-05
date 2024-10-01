@@ -6,12 +6,12 @@
 Ступінь кожної вершини:
 
 ```Station A: 3
-Station B: 2
-Station C: 4
-Station D: 2
-Station E: 2
-Station F: 3
-Station G: 2```
+```Station B: 2
+```Station C: 4
+```Station D: 2
+```Station E: 2
+```Station F: 3
+```Station G: 2
 
 # Завдання 2:
 
