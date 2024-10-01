@@ -1,6 +1,6 @@
-Завдання 1:
-Кількість вершин: 7
+# Завдання 1:
 
+Кількість вершин: 7
 Кількість ребер: 9
 
 Ступінь кожної вершини:
@@ -12,17 +12,20 @@ Station D: 2
 Station E: 2
 Station F: 3
 Station G: 2
-Завдання 2:
+
+# Завдання 2:
+
 DFS шлях: ['Station A', 'Station B', 'Station C', 'Station D', 'Station E', 'Station F']
 
 BFS шлях: ['Station A', 'Station C', 'Station F']
 
 BFS знаходить коротший шлях, тому що він першочергово обирає найближчі вершини, тоді як DFS намагається дослідити всі можливі шляхи, що часто призводить до довшого шляху.
 
-Завдання 3:
+# Завдання 3:
+
 Найкоротші шляхи:
 
-Station A:
+``` Station A:
     Station A: 0
     Station C: 1
     Station B: 2
@@ -77,4 +80,4 @@ Station G:
     Station E: 7
     Station C: 7
     Station B: 8
-    Station D: 10
+    Station D: 10 ```
